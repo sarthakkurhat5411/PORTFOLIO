@@ -1,0 +1,12 @@
+HTTrack3.51-0 launched on Thu, 05 Nov 2026 11:21:22 at https://therishithakor.com/my-story +*.png +*.gif +*.jpg +*.jpeg +*.webp +*.avif +*.svg +*.css +*.js +*.woff2 +*.woff +*.ttf +*.otf +*.mp4 +*.webm -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2%f#f -F "Mozilla/5.0 (compatible; HTTrack/3.x; +https://www.httrack.com/)" -%F "<!-- Mirrored from {url} by HTTrack Website Copier/3.x [XR&CO], {date} -->" -%l "en, *" https://therishithakor.com/my-story -O1 "C:\Users\prath\OneDrive\New folder\Desktop\selfproject" +*.png +*.gif +*.jpg +*.jpeg +*.webp +*.avif +*.svg +*.css +*.js +*.woff2 +*.woff +*.ttf +*.otf +*.mp4 +*.webm -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+11:22:31	Error: 	"Not Found" (404) at link https://therishithakor.com/M13.7 5.1C13.7 6.25937 12.7594 7.2 11.6 7.2C10.4406 7.2 9.5 6.25937 9.5 5.1C9.5 3.94062 10.4406 3 11.6 3C12.7594 3 13.7 3.94062 13.7 5.1ZM11.6 5.7C11.9309 5.7 12.2 5.43095 12.2 5.1C12.2 4.76905 11.9309 4.5 11.6 4.5C11.2691 4.5 11 4.76905 11 5.1C11 5.43095 11.2691 5.7 11.6 5.7Z (from https://therishithakor.com/.netlify/scripts/hud?variant=public)
+
+HTTrack Website Copier/3.51-0 mirror complete in 1 minutes 9 seconds : 95 links scanned, 93 files written (9504711 bytes overall) [9319325 bytes received at 135062 bytes/sec], 849609 bytes transferred using HTTP compression in 12 files, ratio 41%
+(1 errors, 0 warnings, 0 messages)
